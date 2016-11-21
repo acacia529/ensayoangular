@@ -1,8 +1,10 @@
 export class Hero{
-  id: number = 1;
-  name: string = "Windstorm";
+  id: number;
+  name: string;
 }
 
-export class Title{
-    title: string = "Titulo";
+export class Hero{
+    id: number;
+    name: string;
 }
+

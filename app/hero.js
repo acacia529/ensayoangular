@@ -1,17 +1,14 @@
 "use strict";
 var Hero = (function () {
     function Hero() {
-        this.id = 1;
-        this.name = "Windstorm";
     }
     return Hero;
 }());
 exports.Hero = Hero;
-var Title = (function () {
-    function Title() {
-        this.title = "Titulo";
+var Hero = (function () {
+    function Hero() {
     }
-    return Title;
+    return Hero;
 }());
-exports.Title = Title;
+exports.Hero = Hero;
 //# sourceMappingURL=hero.js.map
